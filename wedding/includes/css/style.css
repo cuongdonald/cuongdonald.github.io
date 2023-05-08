@@ -3972,7 +3972,7 @@
 
 		.elementor-48381 .elementor-element.elementor-element-a641687:not(.elementor-motion-effects-element-type-background),
 		.elementor-48381 .elementor-element.elementor-element-a641687>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-		background-image: url("../wp-content/uploads/2022/08/img-sample-2-25.jpg");
+		background-image: url("../../contents/uploads/2022/08/img-sample-2-25.jpg");
 		background-size: cover;
 		}
 
@@ -6168,12 +6168,12 @@
 		font-style: normal;
 		font-weight: normal;
 		font-display: auto;
-		src: url('https://inviteams.com/wp-content/uploads/2022/01/Creattion.eot');
-		src: url('https://inviteams.com/wp-content/uploads/2022/01/Creattion.eot?#iefix') format('embedded-opentype'),
-			url('https://inviteams.com/wp-content/uploads/2022/01/Creattion.woff2') format('woff2'),
-			url('https://inviteams.com/wp-content/uploads/2022/01/Creattion.woff') format('woff'),
-			url('https://inviteams.com/wp-content/uploads/2022/01/Creattion.ttf') format('truetype'),
-			url('https://inviteams.com/wp-content/uploads/2022/01/Creattion.svg#Creattion') format('svg');
+		src: url('../../contents/uploads/2022/01/Creattion.eot');
+		src: url('../../contents/uploads/2022/01/Creattion.eot?#iefix') format('embedded-opentype'),
+			url('../../contents/uploads/2022/01/Creattion.woff2') format('woff2'),
+			url('../../contents/uploads/2022/01/Creattion.woff') format('woff'),
+			url('../../contents/uploads/2022/01/Creattion.ttf') format('truetype'),
+			url('../../contents/uploads/2022/01/Creattion.svg#Creattion') format('svg');
 		}
 
 		/* End Custom Fonts CSS */
